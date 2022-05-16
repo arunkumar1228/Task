@@ -1,6 +1,2 @@
-*.class
-*.log
-.idea
-.bsp
-target
-null
+# Project exclude paths
+/out/
